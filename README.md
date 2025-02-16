@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm zjenqhbsen132
 
-<!--
-**zjenqhbsen132/zjenqhbsen132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎱 🌟 🏓 A programmer in databases 🎱 🌟 🏓
 
-Here are some ideas to get you started:
+## About Me
+🎾 🏄 🎰 🚴 Building the future with devops 🎾 🏄 🎰 🚴
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🎻 🎮 🎱 🛼 A beginner in algorithms 🎻 🎮 🎱 🛼
+
+### Fun Facts
+🚀 🎯 A programmer in developer advocacy 🚀 🎯
+
+---
+🏏 🚵 🌍 🏊 🎳 Thanks for visiting my profile! 🏓 🌟 🏊 🎰 🏓
